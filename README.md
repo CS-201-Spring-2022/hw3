@@ -62,3 +62,6 @@ This is a lengthy and extensive assignment. It is complicated and daunting. And 
 - post in the discussion thread linked in the _Assignments_ module on the course page on Canvas.
 
 Make sure to subscribe to the discussion thread for this homework on Canvas in order to stay updated on relevant discussions, files, updates, bug fixes, carrying details, etc.
+
+# Contributions
+I stemmed the identified tokes.
